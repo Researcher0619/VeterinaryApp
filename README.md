@@ -3,6 +3,9 @@
 
 ## PROJECT SUMMARY WITH A YOUTUBE VIDEO
 
+### Click Below and Watch 
+           
+
 [![Veterinary Management System](http://img.youtube.com/vi/eS9OOPD7KwQ/0.jpg)](http://www.youtube.com/watch?v=eS9OOPD7KwQ "Veterinary Management System")
 
 
@@ -27,7 +30,7 @@
 
 - **available_dates**
 
-![available_dates.png](src/images/available_dates.png)
+![availabledates.png](src/images/availabledates.png)
 
 - **appointments**
 
