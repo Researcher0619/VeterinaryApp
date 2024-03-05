@@ -9,42 +9,34 @@
 
 ## Veterinary Management System UML Diagram
 
-![UML](/src/images/UML.png)
-
+![UML](src/images/UML.png)
 
 ### Database Tables
 
 - **vaccines**
 
-![vaccines.png](..%2Fvaccines.png)
+![vaccines.png](src/images/vaccines.png)
 
 - **doctors**
 
-![doctors.png](..%2Fdoctors.png)
-
+![doctors.png](src/images/doctors.png)
 
 - **customers**
 
-
-![customers.png](..%2Fcustomers.png)
-
+![customers.png](src/images/customers.png)
 
 - **available_dates**
 
-![availabledate_dates.png](..%2Favailabledate_dates.png)
-
+![available_dates.png](src/images/available_dates.png)
 
 - **appointments**
 
-
-![appointments.png](..%2Fappointments.png)
-
-
+![appointments.png](src/images/appointments.png)
 
 - **animals**
 
+![animals.png](src/images/animals.png)
 
-![animals.png](..%2Fanimals.png)
 
 
 
