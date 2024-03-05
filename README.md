@@ -9,7 +9,7 @@
 
 ## Veterinary Management System UML Diagram
 
-![UML-Project.png](..%2FUML-Project.png)
+![UML](/src/images/UML.png)
 
 
 ### Database Tables
